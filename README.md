@@ -60,7 +60,7 @@ Quit:        Q or Esc
 
 LEVEL / MAP FORMAT
 
-• Each level is a .txt file in the Maps/ directory
+• Each level is a .txt file in the TextMazeRunner\bin\Debug\net9.0\Maps directory
 • All lines must be the same length (rectangular grid)
 
 • Symbols:
