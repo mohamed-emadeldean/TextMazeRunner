@@ -2,7 +2,7 @@ TEXT MAZE RUNNER
 
 Text Maze Runner is a console-based puzzle game built in pure C# (.NET Console App) that challenges players to navigate through maze-like levels using keyboard controls. Designed with clean architecture and object-oriented principles, the game emphasizes modular design, reusability, and clarity.
 
-Players control a character (@) within a grid-based map filled with walls (#), open paths (.), and a goal (X). The objective is simple: reach the goal by navigating the maze, avoiding walls, and using logic to find the shortest path.────────────────────────────────────────────────────────────────────────
+Players control a character (@) within a grid-based map filled with walls (#), open paths (.), and a goal (X). The objective is simple: reach the goal by navigating the maze, avoiding walls, and using logic to find the shortest path. ────────────────────────────────────────────────────────────────────────
 
 Running the App
 
